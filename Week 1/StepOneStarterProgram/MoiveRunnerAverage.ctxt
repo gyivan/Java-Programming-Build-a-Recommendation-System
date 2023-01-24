@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=MoiveRunnerAverage
+comment1.params=
+comment1.target=SecondRatings\ newSecondRatings()
+comment2.params=
+comment2.target=void\ printAverageRatings()
+comment3.params=
+comment3.target=void\ getAverageRatingOneMovie()
+numComments=4
